@@ -1,4 +1,4 @@
-# Project Title
+# Personal Projects - Readme
 This repository is to showcase some of the projects I developed both inside University and outside to show programming ability to interested employers. 
 
 ## Features
